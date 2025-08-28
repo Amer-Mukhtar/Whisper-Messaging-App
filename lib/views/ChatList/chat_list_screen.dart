@@ -162,7 +162,7 @@ class _ChatListScreenState extends State<ChatListScreen> {
                             addedUser!,
                             style: const TextStyle(
                               fontSize: 15,
-                              color: ChatPageContactNameTextColor,
+                              color:   Colors.white,
                               fontWeight: FontWeight.w500,
                             ),
                           ),
